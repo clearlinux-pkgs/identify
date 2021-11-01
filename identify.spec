@@ -4,7 +4,7 @@
 #
 Name     : identify
 Version  : 2.3.3
-Release  : 15
+Release  : 16
 URL      : https://files.pythonhosted.org/packages/5f/8d/e8c578ed8686b96a78eda2e62fb41ef3c3a8edc7f885663fa43f81fd0a31/identify-2.3.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5f/8d/e8c578ed8686b96a78eda2e62fb41ef3c3a8edc7f885663fa43f81fd0a31/identify-2.3.3.tar.gz
 Summary  : File identification library for Python
@@ -69,7 +69,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1635740927
+export SOURCE_DATE_EPOCH=1635740988
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
