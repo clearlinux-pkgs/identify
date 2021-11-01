@@ -1,5 +1,5 @@
 PKG_NAME := identify
-URL = https://files.pythonhosted.org/packages/ba/e1/007884dfe15fc32c9f40eb8fc054b35f4ce9ea2fbdcd2b4fb5b182f55c8a/identify-2.3.2.tar.gz
+URL = https://files.pythonhosted.org/packages/5f/8d/e8c578ed8686b96a78eda2e62fb41ef3c3a8edc7f885663fa43f81fd0a31/identify-2.3.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
